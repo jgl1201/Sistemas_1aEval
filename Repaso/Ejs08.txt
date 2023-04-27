@@ -1,0 +1,43 @@
+Diferencias entre BIOS Y UEFI.
+    La UEFI es más moderna.
+    La UEFI tiene interfaz gráfica, la BIOS es modo texto
+    La UEFI permite trabajar con arquitecturas de 64 bits
+    La UEFI permite añadir extensiones
+    La UEFI es más segura
+    La UEFI se actualiza con Internet (OTA)
+
+¿Qué sistema de particiones es más moderno?
+GPT     (X)
+MBR
+
+En los sistemas que tiene el límite de 4 particiones primarias como máximo, ¿cómo podemos conseguir más particiones extra?
+    
+
+Nombre de la persona que inicia la construcción del sistema operativo Linux
+    Linus Torvalds
+
+A la carcasa de plástico o metal del ordenador, donde resguarda a todos los componentes... se le llama Zócalo.
+Verdadero
+Falso       (X)
+
+Indica 3 periféricos de entrada y 3 de salida
+    Entrada: ratón, teclado, escáner
+    Salida: impresora, altavoz, monitor
+
+Indica 4 partes fundamentales de un ordenador (no periféricos)
+    Fuente de alimentación, procesador, placa base, RAM
+
+¿Qué es un controlador o driver?
+    Aquello que permite que el sistema operativo pueda trabajar con los periféricos.
+
+¿La pantalla del ordenador es una parte fundamental del ordenador?
+    No
+
+Asocia cada foto con el esquema GPT o MBR:
+        (A) MBR           (B) GPT
+
+A la unión de un kernel, unos cuantos drivers, un entorno de ventanas, un ambiente de escritorio (kde, gnome,...) y unos cuantos programas de utilidad se le denomina...
+    Una distribución
+
+Indica 4 sistemas operativos que conozcas:
+    Android, Windows, IOS, Linux

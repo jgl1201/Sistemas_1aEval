@@ -1,0 +1,41 @@
+En un entorno de clave pública...
+¿Bernardo quiere enviarle un mensaje a Ana, con que tendrá que cifrar su mensaje para que nadie (un hacker por ejemplo)  pueda alterar o modificar su mensaje?
+    Con la clave pública de Ana
+
+¿Qué tipo de servidores se encargan de resolver nombres de dominio?
+    Servidores DNS
+
+Bind es un servidor FTP para la transferencia de archivos
+Verdadero
+Falso       (X)
+
+¿Qué protocolo de microsoft sirve para compartir archivos e impresoras?
+    SMB
+
+¿A qué hace referencia el término I18n?
+    18 son las letras que hay entre la I y la N.
+    Internacionalización.
+    Adaptar el programa a los diferentes paises.
+
+/* El servidor FTP ftp.dlptest.com es un servidor de pruebas, para evitar abusos:
+Elimina cada media hora lo que se haya subido
+Cambia frecuentemente las credenciales para conexión.
+
+Conéctate al servidor y sube un archivo cualquiera (saca capturas de pantalla del proceso)
+
+Nota: Las credenciales las puedes encontrar aquí: https://dlptest.com/ftp-test/ 
+*/
+
+Indica al menos 3 clientes del servidor Mysql que conozcas
+    Workbench, phpmyadmin
+
+/* La página web https://www.db4free.net/ nos permite crear bases de datos de forma gratuita en sus servidores (interesante para poder hacer pruebas)
+Registrate y crea una nuevas credenciales en esta página web
+Nombre usuario
+Password
+Nombre de la base de datos
+Conéctate mediante un cliente de Base de datos a este servidor
+Crea una tabla nueva en esta base de datos
+Añade algún dato(registro) a la tabla
+(saca capturas de pantalla del proceso)
+*/

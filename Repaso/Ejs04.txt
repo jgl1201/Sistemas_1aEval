@@ -1,0 +1,228 @@
+1- ¿Cuál es el nº de puerto por defecto usado en el protocolo SMTP, y en el protocolo POP3?
+    SMTP- 587   25
+    POP3- 110   110
+
+2- Joomla es un:
+erp
+crm
+cms (X)
+
+3- ¿En windows, necesitamos conectar el servidor apache para que sea capaz de interpretar páginas escritas en el lenguaje php, ¿qué archivo de la configuración de php tendrás que tocar?
+php-apache.php
+configuration.php
+configure.php
+php.ini             (X)
+apache.ini
+
+4- ¿Qué hace el siguiente comando ?
+ls -l /etc/
+    listar con información completa lo que se encuentra en etc
+
+
+5- ¿Qué se guarda dentro del fichero /etc/shadow de linux?
+    Contraseñas de los usuarios de manera encriptada
+
+6- Indica brevemente para qué sirven lo siguientes comandos de linux
+
+    top-    nos ayuda a conocer los procesos en tiempo real del sistema
+    kill-   finaliza un proceso
+    nano-   abre editor de texto
+    ls-     muestra los achivos de la dirección en la que estamos
+    cat-    muestra el copntenido del archivo
+    tail-   muestra los últimos N caracteres
+    rm-     eliminar, borrar
+
+
+7- ¿Qué hace el siguiente comando de linux sobre el fichero f.tar?
+tar -x f.tar
+    Para comprimir un archivo y darle ese nombre
+
+
+8- ¿Qué hace el siguiente comando de linux?
+scp paula@192.168.1.123:/home/paula/Documentos/foto.jpg   .
+    Copia foto.jpg del usuario con esa IP en el directorio local especificado
+
+9- Queremos ver el pid de un programa que se está ejecutando en este momento llamado calculadora. ¿Qué comando de linux usarías?
+    ps -e
+
+10- ¿Cómo podemos obtener (desde la consola) información acerca de un comando en particular?
+    *comando* --help
+
+11- Indica que comandos de consola de linux usarías:
+
+    -Crea un nuevo usuario llamado paula con el password Ad1234. 
+       
+    -Crea un nuevo grupo llamado trabajador
+
+    -Asocia el usuario paula al grupo trabajador
+
+    -Crea un fichero llamado datos.txt en tu directorio HOME
+
+    -Haz que el propietario del fichero datos.txt sea paula
+
+
+12- Establece los siguiente permisos para el fichero datos.txt
+El propietario podrá solo leer y escribir
+El grupo podrá solo escribir
+El resto de los usuarios no podrán hacer nada
+
+
+13- Crea una carpeta llamada informacion
+    mkdir informacion
+
+14- Mueve el archivo datos.txt dentro de la carpeta informacion
+    mv datos.txt informacion
+
+15- Edita el fichero datos.txt y añade el siguiente contenido. 
+<< Indica que comandos usarías>>
+
+El sueño va sobre el tiempo<enter>
+Flotando como un velero<enter>
+Nadie puede abrir semillas<enter>
+En el corazón del sueño<enter> 
+<enter>
+El tiempo va sobre el sueño<enter> 
+Hundido hasta los cabellos<enter> 
+Ayer y mañana comen<enter> 
+Oscuras flores de duelo<enter> 
+<enter>
+El sueño va sobre el tiempo<enter> 
+Flotando como un velero<enter> 
+Nadie puede abrir semillas<enter> 
+En el corazón del sueño<enter>
+
+
+16- Muestra las 3 primeras líneas del fichero datos.txt, usando la consola.
+
+17- Busca dentro del fichero datos.txt las líneas que comiencen por las letras El sueño (sin importar mayúsculas y minúsculas). Usando la consola y el comando adecuado.
+
+18- Cuenta cuantas lineas tiene el fichero datos.txt. Usando la consola y el comando adecuado.
+
+19- Vuelca en un fichero llamado extracto.txt las líneas del fichero datos.txt que terminen en vocal
+
+
+--------------------------------------------------------------
+
+Parte 2
+
+El modelo Von Neumann es la arquitectura que encontramos en la mayoría de los ordenadores actuales:
+Verdadero   (X)
+Falso
+
+Un byte son:
+8 bits      (X)
+1024 bits
+4 bits
+1 bit
+
+Convierte el número hexadecimal 4E3 a decimal. El ejercicio estará mal si pones la solución directamente y no pones el proceso completo para obtenerlo.
+    4E3 = 3 * 16^0 + E(14) * 16^1 + 4 * 16^2 =
+    3 * 1 + 14 * 16 + 4 * 256 =
+    3 + 224 + 1024 = 
+    1251
+
+Convierte el número binario  100011 a decimal. El ejercicio estará mal si pones la solución directamente y no pones el proceso completo para obtenerlo.
+    100011 = 1 * 2^0 + 1 * 2^1 + 1 * 2^5 =
+    1 + 2 + 32 =
+    35
+
+Al bus que comunica el microprocesador(intel) con el NorthBridge se le denomina:
+Bus de caché de nivel 1
+SouthBridge
+Bus de caché de nivel 2
+Bus de datos
+FSB                         (X) (Fornt Side Bus)
+Back side bus
+Bus de dirección
+Bus de control
+
+¿Qué dispositivo apareció antes?
+Ordenador cuántico
+Transistor
+Válvula de vacío    (X)
+Microprocesador
+GPU
+
+¿Qué es una GPU?
+    Graphic Procesing Unit
+
+¿Cuál de estos elementos es el más lento?
+Disco duro SSD          (X)
+Memoria RAM
+Registros de la CPU
+
+Di el nombre de cada uno de estos puertos externos. Se pide solo el nombre, no para qué sirve. Para dar la pregunta por válida no puedes fallar ninguno.
+(VER FOTO)
+    USB 3.0
+    Ethernet (RJ45)
+    HDMI
+    PS2 Ratón
+    PS2 Teclado
+    DVI
+    MiniJack (Micrófono)
+
+Indica cual la siguientes extensiones pertenecen a archivos de tipo imagen o foto:
+wma	    (AUDIO)
+mp3		(AUDIO)
+mp4	    (VÍDEO)
+tgz	    (ARCHIVO COMPRIMIDO)
+avi	    (VÍDEO)
+cda		(AUDIO)
+gif		(IMAGEN ANIMADA) 
+tiff	(IMAGEN)	 
+tar		(ARCHIVO COMPRIMIDO)	
+bmp     (IMAGEN)
+
+En los escáneres, ¿su resolución óptica se mide en?:
+Hz
+MHz
+PPP (X)
+RGB
+
+¿Indica algún sistema de archivos usado en windows?
+    Ntfs
+
+Indica poniendo su número correspondiente donde colocarías o conectarías...:
+¿Donde se coloca el disipador del microprocesador?  1
+¿Donde se coloca la tarjeta gráfica?                2
+
+Dos compañías telefónicas te ofrecen una oferta para que contrates su ADSL.
+La compañía A te ofrece una velocidad de descarga de 300 KBps  (B mayúscula).
+La compañía B te ofrece una velocidad de descarga de 2,3 Mbps  (b minúscula).
+¿Qué compañía te ofrece una mejor velocidad de descarga?
+Compañia A
+Compañia B
+Igual: Ofrecen la misma velocidad
+    300 KBps * 8 / 1000 = 2,4 Mbps > 2,3 Mbps
+    La compañía A ofrece mejor velocidad de descarga
+
+En cuanto a ergonomía… ¿Es bueno repartir el peso corporal a través de los glúteos y no de los muslos?
+Verdadero   (X)
+Falso
+
+En cuanto a ergonomía… La altura de la mesa de trabajo debe quedar
+A la altura del codo        (X)
+A la altura del pecho
+A la altura de los glúteos
+
+Los sistemas operativos que pueden ejecutar varias tareas por usuario se llaman
+monotarea
+multitarea      (X)
+monousuario
+multiusuario
+
+¿Qué es el kernel del sistema operativo?
+    El corazón del sistema operativo
+
+¿Cuáles de las siguientes direcciones IP no son válidas? (puedes marcar varias)
+192.568.3.4     (X)
+127.0.0.1
+200.3.4.5.66    (X)
+
+Con este protocolo los clientes de una red IP pueden conseguir sus parámetros de configuración automáticamente.
+TCP/IP
+FTP
+HTTPS   (X)
+DHCP
+RIP
+NTFS

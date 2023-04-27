@@ -1,0 +1,65 @@
+¿Dónde tiene la memoria RAM un microcontrolador?
+Dentro      (X)
+Fuera
+
+¿En qué sitio está situada la ALU y la UC?
+    En el microprocesador
+    La ALU se encarga de reapizar operaciones
+    La UC es la unidad de control
+
+¿Qué se mide en Hz?
+    La frecuencia del oprdenador, el refresco de la pantalla
+
+Un ordenador con más Hz es siempre más rápido y eficiente que un ordenador con menos Hz.
+Verdadero
+Falso       (X)
+
+Para qué sirve un microprocesador con varios núcleos
+    Para que haga varias tareas simultáneamente
+
+¿Qué es la litografía o nanolitografía en informática?
+    Conseguir que los componentes sean lo más pequeños posibles
+
+Indica alguna marca de microprocesador
+    Intel, AMD
+
+¿Qué es la GPU?
+    Graphic Procesing Unit
+    Unidad de Proceso de la Gráfica
+
+Indica los diferentes colores que nos encontramos en los conectores USB y para qué sirven:
+    Negro: 2.0
+    Azul: 3.0
+    Rojo: más voltaje
+    Amarillo: dar voltaje aun con el ordenador apagado
+
+Indica el nombre de cada uno de los conectores traseros de esta placa base.
+    PS2
+    VGA
+    DVI
+    HDMI
+    RJ45 / Ethernet
+    USB 3.0
+    MiniJack (Altavoz)
+
+¿Qué 2 dispositivos suelen usar memorias flash?
+    Móviles, cámaras de fotos
+
+Ventajas del ssd frente al hdd
+    Es más rápido, más resistente, no es mecánico, ocupa menos, consume menos,
+    pesa menos, no hace ruido, se calienta menos.
+
+Hay 2 tipos, los basados en DRAM y lo basados en NAND
+    RAM
+
+¿Qué tipo de disco SSD te gustaría tener en tu PC (imagina que tienes dinero de sobra)?
+NMVe SSD        (X)
+SATA SSD
+M.2 SSD SATA
+M.2 PCIe
+
+¿Qué son los IOPs de un disco?
+    Operaciones de entrada y salida por segundo
+
+¿Qué es esto?
+    Un disco duro

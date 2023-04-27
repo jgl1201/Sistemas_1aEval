@@ -1,0 +1,82 @@
+Marca los términos negativos
+
+ciberbullying       (X)       
+cookie
+hacker
+cracker             (X)
+crowdfunding
+Doodle
+ebull               (X)
+epub
+
+En el mundo de la programación se entiende por aquellos periodos en los que los desarrolladores trabajan por encima de las horas estipuladas, normalmente para llegar a tiempo a una fecha acordada. 
+	crunchtime
+
+Es un fragmento de software, fragmento de datos o secuencia de comandos o acciones, utilizada con el fin de aprovechar una vulnerabilidad de seguridad de un sistema de información para conseguir un comportamiento no deseado en el mismo.
+	exploit
+
+El siguiente código sufre problemas graves de código sucio.
+Uno de los problemas (por ejemplo) es la variable url1, que se ha puesto directamente (a saco) en el código fuente del programa, en lugar de obtener esos datos de una fuente externa, como un fichero de configuración o parámetros de la línea de comandos, o un archivo de recursos.
+¿Cómo llamamos en informática cuando hacemos esto?
+public void conectarseBD(){
+	String url1 = "jdbc:mysql://localhost:3306/mibase?user=" + user + "&pasword=" + password;
+	conexion1 = DriverManager.getConnection(url1);
+	if (conexion1 != null) {
+		System.out.println("Conexión 1: Conexión a mibase satisfacoria");
+	}
+}
+
+
+Es una buena técnica de testing realizar solamente los happy path.
+Verdadero
+Falso       (X)
+
+¿Qué término te gusta que te llamen?
+lamer		
+leecher		
+magufo		
+nerd		
+niño rata	
+noob		
+techie		(X)
+
+Cuando mimificas tu código fuente….
+Lo comprimes                    (X)
+Lo encriptas
+Lo conviertes a otro lenguaje
+
+Cuando inicias un proyecto web, normalmente realizar un mockup del mismo
+Verdadero
+Falso       (X)
+
+De poder elegir, ¿qué sería peor que te afectase?
+un ransomware	(X)
+un spim
+un spam
+un spoiler
+un swag
+
+¿Qué es estar en tilt?
+	Estar saturado
+
+Como se denomina a convertir un código escrito en un lenguaje de programación a otro lenguaje de programación
+	Transpilar
+
+Indica cuales son lenguajes de programación
+http
+go                      (X)
+python                  (X)
+linux mint
+linux ubuntu
+windows 2012 server
+scala                   (X)
+kotlin                  (X)
+
+Quieres teletrabajar desde casa.
+Necesitas acceder a los ordenadores de la empresa en la que trabajas, como si estuvieses en tu empresa (pero estando en tu casa).
+¿Qué instalarías?
+Un servidor de base de datos
+Un servidor vpn					(X)
+Un servidor proxy
+Un servidor web
+Un servidor dns

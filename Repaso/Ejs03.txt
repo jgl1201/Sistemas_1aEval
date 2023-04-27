@@ -1,0 +1,138 @@
+Convierte el número decimal 36 a binario. El ejercicio estará mal si pones la solución directamente, y no especificas el proceso completo para obtenerlo.
+    36 /2 = 18 RESTO 0
+    18 / 2 = 9 RESTO 0
+    9 / 2 = 4 RESTO 1
+    4 / 2 = 2 RESTO 0
+    2 / 2 = 1 RESTO 0
+    SOLUCIÓN: 100100
+
+Convierte el número decimal 14 a hexadecimal. 
+    14 = E
+
+Convierte el número binario 10001 a decimal. El ejercicio estará mal si pones la solución directamente y no especificas el proceso completo para obtenerlo.
+    10001 = 1 * 2^0 + 0 * 2^1 + 0 * 2^2 + 0 * 2^3 + 1 * 2^4 =
+    1 * 1 + 0 + 0 + 0 + 1 * 16 =
+    1 + 16 = 
+    17
+
+Convierte el número octal 22, a decimal. El ejercicio estará mal si pones la solución directamente y no especificas el proceso completo para obtenerlo.
+    22 = 2 * 8^0 + 2 * 8^1 =
+    2 * 1 + 2 * 8 =
+    2 + 16 =
+    18
+
+Convierte el número hexadecimal 1A8 a decimal. El ejercicio estará mal si pones la solución directamente y no especificas el proceso completo para obtenerlo.
+    1A8 = 8 * 16^0 + A(10) * 16^1 + 1 * 16^2 =
+    8 + 160 + 256 =
+    424
+
+Al conjunto de 4 bits se le denomina...
+    Nibble
+
+Dos compañías telefónicas me ofrecen diferentes ofertas: Compañía A: velocidad de descarga de 120 Mbps  (b minúscula)
+Compañía B: velocidad de descarga de 15 MBps  (B mayúscula) ¿Quién me ofrece mayor velocidad de descarga?
+    15 MBps * 8 = 120 Mbps = 120 Mbps
+    Las compañías ofrecen lo mismo
+    
+2 TB (terabytes) ¿cuántos GB(gigabytes) son?
+    2000 GB
+
+A la carcasa de plástico o metal del ordenador, donde se resguarda a todos los componentes y se protegen del exterior, ¿se le denomina CPU?
+a) Verdadero
+b) Falso        (X)
+
+¿Cuál es la medida de velocidad de los microprocesadores?
+    Hz
+
+¿Qué invento supuso un cambio de generación de los computadores?
+a) Condensador
+b) Transistor   (X)
+c) Ratón
+d) Disipador
+
+La Bios ha venido sustituyendo con el paso del tiempo a la UEFI (tanto en características como en seguridad)
+a) Verdadero    
+b) Falso        (X)
+
+¿Qué tipos de particiones se pueden crear en los esquemas de particiones MBR?
+    Primarias, lógicas y extendidas
+
+¿Qué nombre recibe el sitio o lugar donde se insertan los módulos de memoria RAM?
+    Slot
+
+Tienes una memoria RAM (A) que trabaja a 7CL (CAS) y otra memoria RAM (B) que trabaja a 12CL (CAS). Sin que te den otra información, ¿cuál de las memorias es mejor?
+a) La memoria A         (X)
+b) La memoria B
+c) Las 2 son iguales
+
+¿Qué conector es este?
+    HDMI
+
+¿Qué miden las IOPS?
+    Operaciones de entrada y salida ppor segundo
+
+¿Qué colores son los más adecuados para tu puesto de trabajo?
+a) Superficies oscuras que provoquen altos contrastes
+b) Colores brillantes que reflejen la luz
+c) Colores rojos para mantenerte activo y despierto
+d) Tonos pastel                                         (X)
+
+El conector señalado con el dedo, ¿a qué corresponde?
+    USB 3.0
+
+Marca las respuestas correctas:
+a) El monitor, mejor colocado a un lado para tener la superficie de la mesa despejada.
+b) No usar nunca teléfonos con auriculares con micrófono incorporado, ya que afecta al oído interno.    
+c) Si en tu monitor se producen reflejos, coloca un filtro anti-reflejos                                (X)
+d) La altura del codo debe coincidir con la del teclado                                                 (X)
+
+Una de las tareas del sistema operativo es la de gestionar recursos como la memoria ram disponible, los tiempos de uso de la CPU, o el acceso al disco duro.
+a) Verdadero    (X)
+b) Falso
+
+¿Para qué sirve el Dynamic Host Configuration Protocol (DHCP)?
+    El Protocolo de configuración dinámica de host (DHCP) es un protocolo cliente/servidor que proporciona automáticamente un host de
+    Protocolo de Internet (IP) con su dirección IP y otra información de configuración relacionada, como la máscara de subred y la puerta de enlace predeterminada.
+
+Indica 1 ventaja y 1 desventaja de montar tu página web en un servidor de tu propiedad, frente a contratar un hosting / housing de terceros.
+
+    Ventaja: tú controlas todo y te aseguras de que no te roban la información
+    Desventaja: tienes que llevar tú todo el mantenimiento y soporte 
+
+¿Para qué sirve la dirección ip 127.0.0.1?
+a) Es la que se usa para salir a internet
+b) Es la dirección de loopback                                 (X)
+c) Es la dirección de broadcast
+d) Es la dirección de puerta de enlace (usada por defecto) 
+
+¿Cuál es el comando (de consola) de windows y de linux que me dice en qué directorio me encuentro? (indica los 2 comandos)
+    chdir para Windows y pwd para Linux
+
+¿Cuál o cuáles de estas direcciones ip (ipv4) no son válidas?
+a) 175.22.34.111
+b) 10.100.14.3
+c) 2.45.23.67.4     (X)
+d) 11.11.11.11      
+
+¿Para qué sirven herramientas como virtualbox o VMware?
+    Para simular sistemas operativos
+
+Al bus que comunica el microprocesador(intel) con el NorthBridge se le denomina:
+a) Bus de caché de nivel 1
+b) Bus de caché de nivel 2
+c) SouthBridge
+d) Bus de datos
+e) Bus de dirección
+f) Bus de control
+g) Back side bus
+h) Front-side bus           (X)
+
+¿Cuál de estos sistemas de archivo es usado por los sistemas operativos Windows modernos?
+a) Fat16
+b) Fat32
+c) Ntfs     (X)
+d) ext4fs
+
+¿Quién suele incluir en su interior, la memoria RAM?
+a) Microprocesador
+b) Microcontrolador (X)

@@ -1,0 +1,50 @@
+Indica las diferencias entre hosting y housing...
+    El hosting es algo que está todo montado y lo contratas listo para ser usado.
+    Housing es que te montan un ordenador al que accedes e instalas lo que quieras en el.
+
+Indica alguna desventaja de montar tus servidores en tu empresa/casa, en lugar de una empresa de hosting (pagando por ello)
+    Te tienes que encargar tú de todo, configuración, mantenimiento, seguridad...
+
+¿Qué protocolo usan los servidores web?
+    http
+
+¿Qué conseguimos instalando PHP en nuestro servidor web (por ejemplo el servidor Apache)?
+    Poder trabajar con páginas dinámicas, la puedes construir el tiempo real.
+
+¿En qué puerto se montan por defecto las páginas web?
+    80
+
+¿Qué es LAMP?
+    Linux, Apache, MySQL y PHP (Stack de tecnologías)
+
+Para que nos sirve un servidor FTP
+    Para transferir archivos entre sistemas
+
+Cual es el puerto por defecto en los servidores FTP
+    21
+
+¿Cuál es la diferencia entre ftp modo activo y pasivo?
+
+
+¿En un servidor de base de datos, se pueden guardar datos en formato binario?
+Verdadero   (X)(Blob)
+Falso
+
+Nombre al menos 4 servidores de base de datos famosos
+    MySQL, MariaDB, MongoDB, Oracle, SQL Server
+
+¿Para qué sirven los conectores de bases de datos?
+    Para poder acceder a la base de datos desde cualquier lenguaje
+
+Como se llama al lenguaje (más famoso) usando para consulta de bases de datos
+    SQL
+
+Son un tipo de red en el que se crea una extensión de una red privada para su acceso desde Internet, es como la red local que tienes en casa o en la oficina pero sobre Internet
+    VPN
+
+Coges un documento de Word y le pones una clave de acceso (para acceder a él). ¿Qué estás usando, criptografía de clave pública o criptografía de clave privada?
+    Criptografía de clave privada
+
+La criptografía asimétrica también es conocida como:
+criptografía de clave pública (X)
+criptografía de clave privada 

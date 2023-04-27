@@ -1,0 +1,194 @@
+- La mayoría de los ordenadores actuales basa su arquitectura en el modelo:
+Hardvard
+Von Neumann (X)
+Overcloking
+Unix
+
+- Convierte el número decimal 40 a binario.
+    40 / 2 = 20 RESTO 0
+    20 / 2 = 10 RESTO 0
+    10 / 2 = 5 RESTO 0
+    5 / 2 = 2 RESTO 1
+    2 / 2 = 1 RESTO 0
+    SOLUCIÓN: 101000
+
+- Convierte el número decimal 22 a hexadecimal.
+    22 / 16 = 1 RESTO 6
+    SOLUCIÓN: 16
+
+- Convierte el número binario  10111 a decimal.
+    10111 = 1 * 2 ^0 + 1 * 2 ^1 + 1 * 2^2 + 0 * 2^3 + 1 * 2^4 =
+    1 + 2 + 4 + 0 + 16 =
+    23
+    SOLUCIÓN: 23
+
+- Convierte el número octal 54 a decimal.
+    54 = 4 * 8^0 + 5 * 8^1 =
+    4 + 40 =
+    44
+    SOLUCIÓN: 44
+
+- Convierte el número hexadecimal 3A6  a decimal.
+    3A6 = 6 * 16^0 + A(10) * 16^1 + 3 * 16^2 =
+    6 + 160 + 768 = 
+    934
+    SOLUCIÓN: 934
+
+- ¿Quién se caracteriza por poseer un juego de instrucciones compuesto por instrucciones complejas, donde cada una de ellas se completa con la ejecución de un conjunto de instrucciones más simple:
+    CISC   (X) 
+    RISC
+
+- ¿Cuál de los siguientes dispositivos es menos avanzado tecnológicamente?
+    Transistor          
+    Válvula de vacío    (X)
+    Microporcesador
+
+- ¿Qué medida usamos para medir las frecuencia de reloj del microprocesador?
+    Hz
+
+- ¿Cómo se denomina a la CPU de las tarjetas gráficas?
+    GPU
+
+- Indica algunos de los 3 métodos de comunicación entre los periféricos y la CPU.
+    Interrupciones
+    Entrada y salida programada
+    DMA (Direct Acces Memory)
+
+- ¿Cuál de los siguientes elementos tiene tiempos de acceso más bajos? (es decir, cual es el más rápido)
+    Disco duro SSD              
+    Memoria cache de nivel 3
+    Memoria RAM
+    Memoria cache de nivel 1
+    Registros de la CPU         (X)
+    Disco duro magnético
+
+- ¿Cuáles de estos son módulos de memoria RAM para ordenadores portátiles?
+    SIMM
+    Touchpad
+    RIMM
+    SO-RIMM                     (X)
+    SSD (Solid-State Drive)
+
+- Si te hablan de DIMM ¿de que te estarán hablando?
+    Módulos de memoria RAM
+
+- Técnica que consiste en el uso de 2 o 3 módulos de memoria del mismo fabricante y con las mismas características consiguiendo así aumentar el ancho de banda,
+duplicando o triplicando este, ya que se hacen accesos simultáneos a esos dos o tres módulos.
+    Dual y Triple Chnnel
+
+- El chipset se divide en NorthBridge y SouthBridge
+Indica si la siguiente afirmación es verdadera o falsa:
+    Verdadero (X)
+    Falso
+
+- Los controladores de los puertos USB los localizarías en:
+    NorthBridge
+    SouthBridge (X)
+    EastBridge
+    WestBridge
+
+- Di el nombre de cada uno de estos 3 puertos externos. Se pide el nombre, no para qué sirve. Para dar la pregunta por válida no puedes fallar ninguno.
+    USB 3.0
+    HDMI
+    MiniJack (entrada micrófono)
+
+- ¿Qué conectarías a la ranura de expansión interna AGP de tu ordenador?
+    Tarjeta gráfica
+
+- Comando en consola para crear directorios en linux/mac:
+    mkdir
+
+- En los escáneres, ¿su resolución óptica se mide en?:
+    Hz
+    MHz
+    PPP (X)
+    RGB 
+
+- ¿Cuál de estos NO son tipos de impresora? (puedes marcar varios)
+    Impresora 3D
+    Impresora laser
+    Impresora de inyección de tinta
+    Impresora matricial
+    Impresora transceptiva          (X)
+    Plotter
+
+- ¿Cuál de estos sistemas de archivo NO es usado en Windows, sino en linux?
+    Fat16   
+    Fat32
+    Ntfs
+    ext4fs  (X)
+
+
+- Sistema de almacenamiento de datos que utiliza múltiples unidades de almacenamiento de datos (discos duros o SSD) entre los que se distribuyen o replican los datos.
+Necesita un mínimo de 3 discos para ser implementado. 
+    RAID 0
+    RAID 1  
+    RAID 5  (X)
+
+- Indica con una flecha (bien clara) donde colocarías o conectarías...:
+    CPU
+    MEMORIA RAM
+    DISCO DURO SSD
+    TARJETA GRÁFICA
+    FUENTE DE ALIMENTACIÓN
+
+- Dos compañías telefónicas te ofrecen una oferta para que contrates su ADSL.
+    La compañía A te ofrece una velocidad de descarga de 250 KBps  (B mayúscula).
+    La compañía B te ofrece una velocidad de descarga de 2 Mbps  (b minúscula).
+    ¿Qué compañía te ofrece una mejor velocidad de descarga?
+    250x8=2000/1000 = 2
+        Ambas compañías ofrecen la misma velocidad
+
+
+-   2 Gigabytes es mayor de 251,3 Megabytes
+    Verdadero   (X)
+    Falso       
+
+- En cuanto a ergonomía… En tu puesto de trabajo, cuál es la postura que debes adoptar...
+(Marca las correctas. Puedes marcar varias.)
+    Pies apoyados completamente en el suelo                              (X)   
+    Repartir el peso corporal a través de los glúteos, no de los muslos. (X)
+    Lo importante es encontrar una posición correcta y mantenerla durante todo el tiempo sin variarla.
+
+
+- ¿En sistemas operativos existen 3 tipos de shell: shell grafica, shell modo texto, shell script?
+    Verdadero   (X)
+    Falso
+
+
+- Los sistemas operativos que solo pueden ejecutar una tarea por usuario se llaman
+    monotarea       (X)
+    multitarea
+    monousuario
+    multiusuario
+    monoproceso
+    multiproceso
+
+- Cual es el comando de consola que sirve para copiar archivos en Windows
+    cp
+    copy    (X)
+    save
+    copiar
+    move
+
+- El corazón del todo sistema operativo se llama:
+    Núcleo o Kernel
+
+
+- ¿Cómo definirías la puerta de enlace de una red?
+    Dispositivo dentro de una red informática, mediante el cual se permite el acceso a otra red
+
+
+- ¿Cuáles de las siguientes direcciones IP no son válidas? (puedes marcar varias)
+192.168.3.4
+127.0.0.1
+200.258.2.3     (X)
+200.3.4.5.66    (X)
+
+- Con este protocolo los clientes de una red IP pueden conseguir sus parámetros de configuración automáticamente.
+    TCP/IP 
+    FTP
+    HTTPS   (X)
+    DHCP
+    RIP
+    NTFS

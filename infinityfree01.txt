@@ -1,0 +1,3 @@
+dominio: jorgegarcia.epizy.com
+user: epiz_32925569
+pass: Z89V8gTagyK

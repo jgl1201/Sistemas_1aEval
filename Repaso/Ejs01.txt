@@ -1,0 +1,182 @@
+1. En una arquitectura basada en Von Neumann...
+A la circuitería encargada de realizar las operaciones de índole aritméticas y lógicas se le denomina:
+
+    ALU
+
+2. Convierte el número decimal 20 a binario.
+
+    20 / 2 = 10 RESTO 0
+    10 / 2 = 5 RESTO 0
+    5 / 2 = 2 RESTO 1
+    2 / 2 = 1 RESTO 0
+    SOLUCIÓN: 10100
+
+3. Convierte el número decimal 12 a hexadecimal.
+
+12 / 16 = 0 RESTO 12 = C
+    SOLUCIÓN: C
+
+4. Convierte el número binario  10010 a decimal.
+
+    10010 = 0 * 2^0 + 1 *2^1 + 0 * 2^2 + 0 * 2^3 + 1 * 2^4 =
+    0 + 2 + 0 + 0 + 16 =
+    18
+    SOLUCIÓN: 18
+
+5. Convierte el número octal 24 a decimal.
+
+24 = 4 * 8^0 + 2 * 8^1 =
+    4 + 16 =
+    20
+    SOLUCIÓN: 20
+
+6. Convierte el número hexadecimal 3B3  a decimal
+
+    3B3 = 3 * 16 ^0 + B(11) * 16^1 + 3 * 16^2 =
+    3 + 176 + 768 = 
+    947
+    SOLUCIÓN: 947
+
+ 7. En una arquitectura basada en Von Neumann...Es el componente encargado
+ de sincronizar las operaciones a realizar, dando órdenes precisas al resto de los dispositivos.
+
+
+
+8. ¿Cuál de los siguientes dispositivos es más avanzado tecnológicamente?
+Transistor
+Válvula de vacío
+Microprocesador
+Resistencia
+
+    Microprocesador
+
+9. ¿Qué se mide en Hz? (indica al menos 2 cosas)
+
+    Tasa de refresco de la pantalla 
+    Velocidad de un microprocesador
+
+10.Las partes más importantes de la unidad de control son:
+(puedes marcar varias)
+Registro de instrucción
+Registro contador de programa
+Decodificador
+Secuenciador
+Reloj
+
+    Rejistro de instrucción, codificador, Reloj
+
+11. ¿Cuáles de estos son módulos de memoria RAM para ordenadores portátiles?
+SIMM
+Touchpad
+RIMM
+SO-RIMM
+SSD (Solid-State Drive)
+
+    SO-RIMM
+
+12. ¿De que suele (material) estar formado un disipador?
+
+    Cobre o aluminio
+
+13. Marca la afirmación que sea incorrecta:
+En una arquitectura basada en Von Neumann:
+- La ejecución de un programa se realiza de forma secuencial, pasando de una instrucción a la siguiente inmediatamente.
+- En la memoria del ordenador se almacenan los datos pero no las instrucciones.
+- Se puede acceder a la información contenida en cualquier parte de la memoria especificando la dirección donde se encuentra almacenada.
+
+     En la memoria del ordenador se almacenan los datos pero no las instrucciones.
+
+14. El concepto Triple Chanel hace referencia a la utilización de tres módulos de memoria del mismo fabricante y con las mismas características,
+consiguiente así triplicar el ancho de banda, ya que se hacen accesos simultáneos a los 3 módulos.
+
+    Verdadero
+
+15. El SouthBridge, se ubica  en la placa base, cerca del microprocesador y controla las características relacionadas con este, los módulos de memoria y la tarjeta gráfica.
+El SouthBridge controla los periféricos, puertos ubs, pci, pcie, etc.
+
+    Falso
+
+16. ¿A qué ranura de expansión interna de tu equipo conectarías una tarjeta gráfica moderna?
+
+    PCI Express
+
+17. Hablando de resolución óptica cuales son las siglas de PPP:
+
+    Pixel por pulgada
+
+18. Di el nombre de cada uno de estos puertos externos.
+
+    1. PS/2 (ratón)
+    2. Puerto paralelo
+    3. RJ45 Ethernet
+    4. Soniudo alta calidad - JACK    
+    5. Salida altavoz       - JACK
+    6. Entrada micrófono    - JACK    
+    7. USB
+    8. USB
+    9. VGA
+    10. Puerto serie (COM)
+    11. PS/2 (teclado)
+
+19. ¿Indica el sistema de archivos usado en Windows 10?
+
+    NTFS
+
+20. ¿Indica algún sistema de archivos usado en Linux?
+
+    Ext
+
+21. Háblame del sistema de almacenamiento RAID 1
+
+    Un RAID 1 crea una copia exacta (o espejo) de un conjunto de datos en dos o más discos. Esto resulta útil cuando el rendimiento en
+    lectura es más importante que la capacidad. Un conjunto RAID 1 sólo puede ser tan grande como el más pequeño de sus discos.
+
+22. Dos compañías telefónicas te ofrecen una oferta para que contrates su ADSL.
+La compañía A te ofrece una velocidad de descarga de 350 KBps  (B mayúscula).
+La compañía B te ofrece una velocidad de descarga de 2 Mbps  (b minúscula).
+¿Qué compañía te ofrece una mejor velocidad de descarga?
+
+    350 * 1024 = 358400 Bps * 8 = 2867200 bps
+    2 * 1000000 = 2000000 bps
+    SOLUCIÓN: La A
+    
+23. ¿Qué es mayor 2,1 Gigabytes o 2501,3 Megabytes?
+
+    2.1 * 1024 = 2150.4 MB < 2501.3 MB
+
+24. En cuanto a ergonomía… En tu puesto de trabajo, cuál es la postura que debes adoptar...
+(Marca las correctas. Puedes marcar varias.)
+Pies apoyados completamente en el suelo                                                             (X)
+Repartir el peso corporal a través de los glúteos, no de los muslos.                                (X)
+Lo importante es encontrar una posición correcta y mantenerla durante todo el tiempo sin variarla.
+
+25. Indica si cada una de las siguientes extensiones pertenecen a archivos de tipo:	sistema, audio, video, compresión o imagen(foto). (Ejercicio correcto si no se falla ninguna).
+wma	    (AUDIO)
+mp3		(AUDIO)
+mp4	    (VÍDEO)
+tgz	    (ARCHIVO COMPRIMIDO)
+avi	    (VÍDEO)
+cda		(AUDIO)
+gif		(IMAGEN ANIMADA) 
+tiff	(IMAGEN)	 
+tar		(ARCHIVO COMPRIMIDO)	
+bmp     (IMAGEN)
+
+26. El corazón del todo sistema operativo se llama:
+
+    Núcleo o Kernel
+
+27. En cuanto a ergonomía… La altura de la mesa de trabajo debe quedar
+A la altura del codo (X)
+A la altura del pecho
+A la altura de los glúteos
+
+28. ¿Cuáles de las siguientes direcciones IP no son válidas? (puedes marcar varias)
+10.101.3.222
+127.0.0.1
+200.258.2.3     (X)
+10.101.4.5.66   (X)
+
+29. Con este protocolo los clientes de una red IP pueden conseguir sus parámetros de configuración automáticamente.
+
+    ipconfig
